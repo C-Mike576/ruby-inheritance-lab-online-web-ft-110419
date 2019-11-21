@@ -23,5 +23,4 @@ jim = User.new
 jim.first_name = "Jim"
 jim.last_name = "Parsons"
 
-
-puts jim.last_name
+jim.learn
