@@ -24,4 +24,4 @@ jim.first_name = "Jim"
 jim.last_name = "Parsons"
 
 
-puts jim.first_name
+puts jim.last_name
